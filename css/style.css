@@ -11,3 +11,9 @@
   border-radius: 8px;
   padding: 9px 25px;
 }
+header section {
+  margin-top: 100px;
+}
+section {
+  margin-top: 150px;
+}
